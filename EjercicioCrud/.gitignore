@@ -1,7 +1,16 @@
-./.vs/
-./.vs/*
-./bin
-bin/
+# Visual Studio temporary files, build results, and folders
 .vs/
-.vs
-bin
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.cache
+*.log
+
+# Build output
+*.exe
+*.dll
+*.pdb
+*.tmp
