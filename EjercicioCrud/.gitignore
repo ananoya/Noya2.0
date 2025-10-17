@@ -3,3 +3,5 @@
 ./bin
 bin/
 .vs/
+.vs
+bin
