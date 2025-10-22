@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DAS-Ejercicio4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9c38d7d62dc17e2a827f5aececccb4b65746495")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a65dc07fae9ee950d3a22cd9a88e66ad791267b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("DAS-Ejercicio4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DAS-Ejercicio4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

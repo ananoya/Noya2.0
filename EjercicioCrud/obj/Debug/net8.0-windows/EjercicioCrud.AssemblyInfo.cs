@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EjercicioCrud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08d77af5a3d08fbbac214e45206c24a16ab2efed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9c38d7d62dc17e2a827f5aececccb4b65746495")]
 [assembly: System.Reflection.AssemblyProductAttribute("EjercicioCrud")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EjercicioCrud")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,8 +3,33 @@
   "WorkspaceRootPath": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\DAS-Ejercicio4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43370046-C80A-4B46-884D-D7F80460BC0B}|DAS-Ejercicio4.csproj|c:\\users\\navegador\\source\\repos\\noya2.0\\das-ejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{43370046-C80A-4B46-884D-D7F80460BC0B}|Vista.csproj|c:\\users\\navegador\\source\\repos\\noya2.0\\das-ejercicio4\\frmnuevosocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43370046-C80A-4B46-884D-D7F80460BC0B}|Vista.csproj|solutionrelative:frmnuevosocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43370046-C80A-4B46-884D-D7F80460BC0B}|Vista.csproj|C:\\Users\\Navegador\\source\\repos\\Noya2.0\\DAS-Ejercicio4\\frmnuevolibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43370046-C80A-4B46-884D-D7F80460BC0B}|Vista.csproj|solutionrelative:frmnuevolibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43370046-C80A-4B46-884D-D7F80460BC0B}|Vista.csproj|C:\\Users\\Navegador\\source\\repos\\Noya2.0\\DAS-Ejercicio4\\frmnuevoprestado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43370046-C80A-4B46-884D-D7F80460BC0B}|Vista.csproj|solutionrelative:frmnuevoprestado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43370046-C80A-4B46-884D-D7F80460BC0B}|DAS-Ejercicio4.csproj|C:\\Users\\Navegador\\source\\repos\\Noya2.0\\DAS-Ejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{43370046-C80A-4B46-884D-D7F80460BC0B}|DAS-Ejercicio4.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B32BDC63-ACED-46CD-A28C-C2963DE74F6E}|Modelo\\Modelo.csproj|c:\\users\\navegador\\source\\repos\\noya2.0\\das-ejercicio4\\modelo\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B32BDC63-ACED-46CD-A28C-C2963DE74F6E}|Modelo\\Modelo.csproj|solutionrelative:modelo\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\navegador\\source\\repos\\noya2.0\\entidades\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\navegador\\source\\repos\\noya2.0\\entidades\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\navegador\\source\\repos\\noya2.0\\entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +39,100 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\DAS-Ejercicio4\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\DAS-Ejercicio4\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "FrmNuevoPrestado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\DAS-Ejercicio4\\FrmNuevoPrestado.cs",
+              "RelativeDocumentMoniker": "FrmNuevoPrestado.cs",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\DAS-Ejercicio4\\FrmNuevoPrestado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmNuevoPrestado.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T17:26:48.246Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-22T18:25:29.569Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmNuevoSocio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\DAS-Ejercicio4\\FrmNuevoSocio.cs",
+              "RelativeDocumentMoniker": "FrmNuevoSocio.cs",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\DAS-Ejercicio4\\FrmNuevoSocio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmNuevoSocio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T18:24:50.987Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmNuevoLibro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\DAS-Ejercicio4\\FrmNuevoLibro.cs",
+              "RelativeDocumentMoniker": "FrmNuevoLibro.cs",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\DAS-Ejercicio4\\FrmNuevoLibro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmNuevoLibro.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T18:24:33.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\DAS-Ejercicio4\\Entidades\\Prestamo.cs",
+              "RelativeDocumentMoniker": "Entidades\\Prestamo.cs",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\DAS-Ejercicio4\\Entidades\\Prestamo.cs",
+              "RelativeToolTip": "Entidades\\Prestamo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T18:04:52.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Socio.cs",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\DAS-Ejercicio4\\Entidades\\Socio.cs",
+              "RelativeDocumentMoniker": "Entidades\\Socio.cs",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\DAS-Ejercicio4\\Entidades\\Socio.cs",
+              "RelativeToolTip": "Entidades\\Socio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T18:01:57.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\DAS-Ejercicio4\\Entidades\\Libro.cs",
+              "RelativeDocumentMoniker": "Entidades\\Libro.cs",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\DAS-Ejercicio4\\Entidades\\Libro.cs",
+              "RelativeToolTip": "Entidades\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T17:56:27.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\DAS-Ejercicio4\\Modelo\\Context.cs",
+              "RelativeDocumentMoniker": "Modelo\\Context.cs",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\DAS-Ejercicio4\\Modelo\\Context.cs",
+              "RelativeToolTip": "Modelo\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T17:50:16.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\DAS-Ejercicio4\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\DAS-Ejercicio4\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T17:26:48.246Z"
             }
           ]
         }
