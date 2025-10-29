@@ -8,15 +8,20 @@ namespace Entidades
 {
     public class Prestamo
     { 
-        private int idPrestamo;
+        private int prestamoId;
         private DateTime fechaPrestamo;
         private DateTime fechaDevolución;
         private Libro libroAsociado;
         private Socio socioAsociado;
-        public int IdPrestamo { get; set; }
+
+        public int PrestamoId { get; set; }
         public DateTime FechaPrestamo { get; set; }
-        public DateTime FechaDevolucion { get; set; }
+        public DateTime? FechaDevolucion { get; set; }
         public Libro LibroAsociado { get; set; }
         public Socio SocioAsociado { get; set; }
+        
+        
+        public int LibroId { get; set; }
+        public int SocioId { get; set; }
     }
 }

@@ -72,11 +72,13 @@ namespace Modelo
         //Registrar préstamos(verificar que el libro esté disponible)
         //Aparezca en el data gried los prestamos activos
       
-        //Metodo registrar prestamo 
-        public void RegistrarPrestamo(string isbn, string dniSocio)
-        {
-            var libro = context.Libros.Find(isbn);
 
+        //Metodo registrar prestamo 
+        public void RegistrarPrestamo(string libroId, string dniSocio)
+        {
+            var libro = context.Libros.Find(libroId);
+
+            //PASAR A LA CONTROLADORA -- lo unico que deberia recibir es el objeto
             //validar si el libro existe y esta disponible
             if (libro == null)
             {
@@ -112,7 +114,10 @@ namespace Modelo
 
         //Metodo listar prestamo activos (enum = prestado)
         public IReadOnlyCollection<Prestamo> ListarPrestamosActivos()
-        { 
+        {             
+            //PASAR A LA CONTROLADORA -- lo unico que deberia recibir es el objeto
+            // si usaria sql tendria q hacerlo aca pero con linq es en la controladora
+
             return context.Prestamos
                 .Where(p => p.LibroAsociado.Estado == EstadoLibro.Prestado)
                 .Include(p => p.LibroAsociado) // carga el libro junto al préstamo
@@ -133,7 +138,7 @@ namespace Modelo
             //busco el prestamo por id
             var prestamo = context.Prestamos
            .Include(p => p.LibroAsociado)
-           .FirstOrDefault(p => p.IdPrestamo == idPrestamo);
+           .FirstOrDefault(p => p.PrestamoId == idPrestamo);
 
             //valido si existe
             if (prestamo == null)
