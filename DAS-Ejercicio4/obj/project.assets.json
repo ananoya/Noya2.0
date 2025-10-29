@@ -1602,41 +1602,11 @@
           }
         }
       },
-      "Controladora/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Entidades": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "9.0.9",
-          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.9",
-          "Modelo": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Controladora.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Controladora.dll": {}
-        }
-      },
-      "Entidades/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "9.0.9",
-          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.9"
-        },
-        "compile": {
-          "bin/placeholder/Entidades.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Entidades.dll": {}
-        }
-      },
       "Modelo/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "Entidades": "1.0.0",
+          "C:\\Users\\nnnan\\source\\Noya2.0\\Entidades\\Entidades.csproj": "1.0.0",
           "Microsoft.EntityFrameworkCore": "9.0.9",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.9"
         },
@@ -4758,16 +4728,6 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Controladora/1.0.0": {
-      "type": "project",
-      "path": "../Controladora/Controladora.csproj",
-      "msbuildProject": "../Controladora/Controladora.csproj"
-    },
-    "Entidades/1.0.0": {
-      "type": "project",
-      "path": "../Entidades/Entidades.csproj",
-      "msbuildProject": "../Entidades/Entidades.csproj"
-    },
     "Modelo/1.0.0": {
       "type": "project",
       "path": "Modelo/Modelo.csproj",
@@ -4776,8 +4736,8 @@
   },
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
-      "Controladora >= 1.0.0",
-      "Entidades >= 1.0.0",
+      "C:\\Users\\nnnan\\source\\Noya2.0\\Controladora\\Controladora.csproj",
+      "C:\\Users\\nnnan\\source\\Noya2.0\\Entidades\\Entidades.csproj",
       "Microsoft.EntityFrameworkCore >= 9.0.9",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.9",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.9",
@@ -4786,23 +4746,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Navegador\\.nuget\\packages\\": {},
+    "C:\\Users\\nnnan\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\DAS-Ejercicio4\\Vista.csproj",
+      "projectUniqueName": "C:\\Users\\nnnan\\source\\Noya2.0\\DAS-Ejercicio4\\Vista.csproj",
       "projectName": "Vista",
-      "projectPath": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\DAS-Ejercicio4\\Vista.csproj",
-      "packagesPath": "C:\\Users\\Navegador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\DAS-Ejercicio4\\obj\\",
+      "projectPath": "C:\\Users\\nnnan\\source\\Noya2.0\\DAS-Ejercicio4\\Vista.csproj",
+      "packagesPath": "C:\\Users\\nnnan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nnnan\\source\\Noya2.0\\DAS-Ejercicio4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Navegador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nnnan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4812,21 +4772,20 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "C:\\Users\\Navegador\\SQLClient": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\Controladora\\Controladora.csproj": {
-              "projectPath": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\Controladora\\Controladora.csproj"
+            "C:\\Users\\nnnan\\source\\Noya2.0\\Controladora\\Controladora.csproj": {
+              "projectPath": "C:\\Users\\nnnan\\source\\Noya2.0\\Controladora\\Controladora.csproj"
             },
-            "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\DAS-Ejercicio4\\Modelo\\Modelo.csproj": {
-              "projectPath": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\DAS-Ejercicio4\\Modelo\\Modelo.csproj"
+            "C:\\Users\\nnnan\\source\\Noya2.0\\DAS-Ejercicio4\\Modelo\\Modelo.csproj": {
+              "projectPath": "C:\\Users\\nnnan\\source\\Noya2.0\\DAS-Ejercicio4\\Modelo\\Modelo.csproj"
             },
-            "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\Entidades\\Entidades.csproj"
+            "C:\\Users\\nnnan\\source\\Noya2.0\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\nnnan\\source\\Noya2.0\\Entidades\\Entidades.csproj"
             }
           }
         }
@@ -4841,7 +4800,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -4887,8 +4846,28 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "No se encuentra el proyecto \"C:\\Users\\nnnan\\source\\Noya2.0\\Entidades\\Entidades.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
+      "libraryId": "C:\\Users\\nnnan\\source\\Noya2.0\\Entidades\\Entidades.csproj",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "No se encuentra el proyecto \"C:\\Users\\nnnan\\source\\Noya2.0\\Controladora\\Controladora.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
+      "libraryId": "C:\\Users\\nnnan\\source\\Noya2.0\\Controladora\\Controladora.csproj",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
 }
