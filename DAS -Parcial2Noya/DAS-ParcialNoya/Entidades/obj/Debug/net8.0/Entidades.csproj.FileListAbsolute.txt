@@ -1,0 +1,15 @@
+C:\Users\nnnan\source\Noya2.0\DAS -Parcial2Noya\DAS-ParcialNoya\Entidades\obj\Debug\net8.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\nnnan\source\Noya2.0\DAS -Parcial2Noya\DAS-ParcialNoya\Entidades\obj\Debug\net8.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nnnan\source\Noya2.0\DAS -Parcial2Noya\DAS-ParcialNoya\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\nnnan\source\Noya2.0\DAS -Parcial2Noya\DAS-ParcialNoya\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfo.cs
+C:\Users\nnnan\source\Noya2.0\DAS -Parcial2Noya\DAS-ParcialNoya\Entidades\obj\Debug\net8.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\nnnan\source\Noya2.0\DAS -Parcial2Noya\DAS-ParcialNoya\Entidades\obj\Debug\net8.0\Entidades.sourcelink.json
+C:\Users\nnnan\source\Noya2.0\DAS -Parcial2Noya\DAS-ParcialNoya\Entidades\bin\Debug\net8.0\Entidades.deps.json
+C:\Users\nnnan\source\Noya2.0\DAS -Parcial2Noya\DAS-ParcialNoya\Entidades\bin\Debug\net8.0\Entidades.runtimeconfig.json
+C:\Users\nnnan\source\Noya2.0\DAS -Parcial2Noya\DAS-ParcialNoya\Entidades\bin\Debug\net8.0\Entidades.dll
+C:\Users\nnnan\source\Noya2.0\DAS -Parcial2Noya\DAS-ParcialNoya\Entidades\bin\Debug\net8.0\Entidades.pdb
+C:\Users\nnnan\source\Noya2.0\DAS -Parcial2Noya\DAS-ParcialNoya\Entidades\obj\Debug\net8.0\Entidades.dll
+C:\Users\nnnan\source\Noya2.0\DAS -Parcial2Noya\DAS-ParcialNoya\Entidades\obj\Debug\net8.0\refint\Entidades.dll
+C:\Users\nnnan\source\Noya2.0\DAS -Parcial2Noya\DAS-ParcialNoya\Entidades\obj\Debug\net8.0\Entidades.pdb
+C:\Users\nnnan\source\Noya2.0\DAS -Parcial2Noya\DAS-ParcialNoya\Entidades\obj\Debug\net8.0\Entidades.genruntimeconfig.cache
+C:\Users\nnnan\source\Noya2.0\DAS -Parcial2Noya\DAS-ParcialNoya\Entidades\obj\Debug\net8.0\ref\Entidades.dll

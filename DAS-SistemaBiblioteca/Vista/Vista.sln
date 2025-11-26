@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoyaParcial", "NoyaParcial\NoyaParcial.csproj", "{4D8F0288-F71B-4248-AF53-2773611CF720}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D8F0288-F71B-4248-AF53-2773611CF720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D8F0288-F71B-4248-AF53-2773611CF720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D8F0288-F71B-4248-AF53-2773611CF720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D8F0288-F71B-4248-AF53-2773611CF720}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FB65823-E95B-48CC-825B-66D867277572}
+	EndGlobalSection
+EndGlobal

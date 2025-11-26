@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nnnan\\source\\repos\\NoyaAna2TT\\CrudADO2\\EjercicioCrud\\",
+  "WorkspaceRootPath": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\EjercicioCrud\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F01028EA-9FAD-4FFC-B946-2D9580FDE7DA}|EjercicioCrud.csproj|c:\\users\\nnnan\\source\\repos\\noyaana2tt\\crudado2\\ejerciciocrud\\frmmodificar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F01028EA-9FAD-4FFC-B946-2D9580FDE7DA}|EjercicioCrud.csproj|c:\\users\\navegador\\source\\repos\\noya2.0\\ejerciciocrud\\frmmodificar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F01028EA-9FAD-4FFC-B946-2D9580FDE7DA}|EjercicioCrud.csproj|solutionrelative:frmmodificar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F01028EA-9FAD-4FFC-B946-2D9580FDE7DA}|EjercicioCrud.csproj|c:\\users\\nnnan\\source\\repos\\noyaana2tt\\crudado2\\ejerciciocrud\\frmagregar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F01028EA-9FAD-4FFC-B946-2D9580FDE7DA}|EjercicioCrud.csproj|c:\\users\\navegador\\source\\repos\\noya2.0\\ejerciciocrud\\frmagregar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F01028EA-9FAD-4FFC-B946-2D9580FDE7DA}|EjercicioCrud.csproj|solutionrelative:frmagregar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F01028EA-9FAD-4FFC-B946-2D9580FDE7DA}|EjercicioCrud.csproj|c:\\users\\nnnan\\source\\repos\\noyaana2tt\\crudado2\\ejerciciocrud\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F01028EA-9FAD-4FFC-B946-2D9580FDE7DA}|EjercicioCrud.csproj|c:\\users\\navegador\\source\\repos\\noya2.0\\ejerciciocrud\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F01028EA-9FAD-4FFC-B946-2D9580FDE7DA}|EjercicioCrud.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F01028EA-9FAD-4FFC-B946-2D9580FDE7DA}|EjercicioCrud.csproj|c:\\users\\nnnan\\source\\repos\\noyaana2tt\\crudado2\\ejerciciocrud\\frmmodificar.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "AbsoluteMoniker": "D:0:0:{F01028EA-9FAD-4FFC-B946-2D9580FDE7DA}|EjercicioCrud.csproj|c:\\users\\navegador\\source\\repos\\noya2.0\\ejerciciocrud\\frmmodificar.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{F01028EA-9FAD-4FFC-B946-2D9580FDE7DA}|EjercicioCrud.csproj|solutionrelative:frmmodificar.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     }
   ],
@@ -32,37 +32,35 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\nnnan\\source\\repos\\NoyaAna2TT\\CrudADO2\\EjercicioCrud\\Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\EjercicioCrud\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\nnnan\\source\\repos\\NoyaAna2TT\\CrudADO2\\EjercicioCrud\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\EjercicioCrud\\Form1.Designer.cs",
               "RelativeToolTip": "Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T15:09:46.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T15:09:46.792Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FrmAgregar.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\nnnan\\source\\repos\\NoyaAna2TT\\CrudADO2\\EjercicioCrud\\FrmAgregar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\EjercicioCrud\\FrmAgregar.Designer.cs",
               "RelativeDocumentMoniker": "FrmAgregar.Designer.cs",
-              "ToolTip": "C:\\Users\\nnnan\\source\\repos\\NoyaAna2TT\\CrudADO2\\EjercicioCrud\\FrmAgregar.Designer.cs",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\EjercicioCrud\\FrmAgregar.Designer.cs",
               "RelativeToolTip": "FrmAgregar.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T15:09:40.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T15:09:40.141Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FrmModificar.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\nnnan\\source\\repos\\NoyaAna2TT\\CrudADO2\\EjercicioCrud\\FrmModificar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\EjercicioCrud\\FrmModificar.Designer.cs",
               "RelativeDocumentMoniker": "FrmModificar.Designer.cs",
-              "ToolTip": "C:\\Users\\nnnan\\source\\repos\\NoyaAna2TT\\CrudADO2\\EjercicioCrud\\FrmModificar.Designer.cs",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\EjercicioCrud\\FrmModificar.Designer.cs",
               "RelativeToolTip": "FrmModificar.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwCYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T15:09:36.7Z",
               "EditorCaption": ""
@@ -71,13 +69,16 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "FrmModificar.resx",
-              "DocumentMoniker": "C:\\Users\\nnnan\\source\\repos\\NoyaAna2TT\\CrudADO2\\EjercicioCrud\\FrmModificar.resx",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\EjercicioCrud\\FrmModificar.resx",
               "RelativeDocumentMoniker": "FrmModificar.resx",
-              "ToolTip": "C:\\Users\\nnnan\\source\\repos\\NoyaAna2TT\\CrudADO2\\EjercicioCrud\\FrmModificar.resx",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Noya2.0\\EjercicioCrud\\FrmModificar.resx",
               "RelativeToolTip": "FrmModificar.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-10-17T15:09:34.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T15:09:34.624Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
