@@ -3,6 +3,8 @@ using Modelo;
 
 namespace Controladora
 {
+
+
     public class Controladora
     {
 
@@ -24,27 +26,53 @@ namespace Controladora
             }
         }
 
-
-
         public IReadOnlyCollection<Socio> ListarSocios()
         {
-            return repositorio.ListarSocios();
+            try
+            {
+               return repositorio.ListarSocios();
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error al listar socios"+ ex);
+            }
+            
         }
 
         public IReadOnlyCollection<Prestamo> ListarPrestamosActivos()
         {
-            return repositorio.ListarPrestamosActivos();
+            try
+            {
+                return repositorio.ListarPrestamosActivos();
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error al listar prestamos activos" + ex);
+            }
+            
         }
 
         public IReadOnlyCollection<Libro> ListarLibro()
         {
-            return repositorio.ListarLibros();
+            try
+            {
+                return repositorio.ListarLibros();
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error al listar libros" + ex);
+            }
         }
-
         
         public IReadOnlyCollection<Prestamo> ListarHistorialPrestamos()
-        {
-            return repositorio.ListarHistorialPrestamos();
+        {   try
+            {
+                return repositorio.ListarHistorialPrestamos();
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error al listar Historial de prestamos" + ex);
+            }
         }
 
         public void AgregarLibro(Libro libro)
@@ -52,8 +80,106 @@ namespace Controladora
             try
             {
                 repositorio.AgregarLibro(libro);
-            }catch (Exception e) {
-                throw new Exception("Error +"); 
+            }
+            catch (Exception ex) {
+                throw new Exception("Error al agregar libro" + ex);           
+            }
+        } 
+
+        public void ModificarLibro(Libro libro)
+        {
+            try
+            {
+                repositorio.Modificar(libro);
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error al modificar libro" + ex);
+            }
+        }
+
+        public void EliminarLibro(Libro libro)
+        {
+            try
+            {
+                repositorio.Eliminar(libro);
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error al Eliminar libro" + ex);
+            }
+        }
+
+        public void AgregarSocio(Socio socio)
+        {
+            try
+            {
+                repositorio.AgregarSocio(socio);
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error al agregar socio" + ex);
+            }
+        }
+       
+        public void ModificarSocio(Socio socio)
+        {
+            try
+            {
+                repositorio.Modificar(socio);
+            }
+            catch(Exception ex)
+            {
+                throw new Exception("Error al modificar socio" + ex);
+            }
+
+        }
+
+        public void EliminarSocio(Socio socio)
+        {
+            try
+            {
+                repositorio.Eliminar(socio);
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error al eliminar libros" + ex);
+            }
+        }
+
+        public void RegistrarPrestamo(string isbn, string dniSocio)
+        {
+            try
+            {
+                repositorio.RegistrarPrestamo(isbn, dniSocio);
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error al registrar prestamos" + ex);
+            }
+        }
+
+        public void RegistrarDevolucion(int idPrestamo)
+        {
+            try
+            {
+                repositorio.RegistrarDevolucion(idPrestamo);
+            }
+            catch(Exception ex)
+            {
+                throw new Exception("Error al registrar la devolución" + ex);
+            }
+        }
+
+        public void ModificarPrestamo(Prestamo prestamo)
+        {
+            try
+            {
+                repositorio.ModificarPrestamo(prestamo);
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error al modificar prestamo" + ex);
             }
         }
 
