@@ -4786,23 +4786,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Navegador\\.nuget\\packages\\": {},
+    "C:\\Users\\nnnan\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Navegador\\Source\\Repos\\Noya2.0\\DAS-SistemaBiblioteca\\Vista\\Vista.csproj",
+      "projectUniqueName": "C:\\Users\\nnnan\\source\\Noya2.0\\DAS-SistemaBiblioteca\\Vista\\Vista.csproj",
       "projectName": "Vista",
-      "projectPath": "C:\\Users\\Navegador\\Source\\Repos\\Noya2.0\\DAS-SistemaBiblioteca\\Vista\\Vista.csproj",
-      "packagesPath": "C:\\Users\\Navegador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Navegador\\Source\\Repos\\Noya2.0\\DAS-SistemaBiblioteca\\Vista\\obj\\",
+      "projectPath": "C:\\Users\\nnnan\\source\\Noya2.0\\DAS-SistemaBiblioteca\\Vista\\Vista.csproj",
+      "packagesPath": "C:\\Users\\nnnan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nnnan\\source\\Noya2.0\\DAS-SistemaBiblioteca\\Vista\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Navegador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nnnan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4812,21 +4812,20 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "C:\\Users\\Navegador\\SQLClient": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\Navegador\\Source\\Repos\\Noya2.0\\DAS-SistemaBiblioteca\\Controladora\\Controladora.csproj": {
-              "projectPath": "C:\\Users\\Navegador\\Source\\Repos\\Noya2.0\\DAS-SistemaBiblioteca\\Controladora\\Controladora.csproj"
+            "C:\\Users\\nnnan\\source\\Noya2.0\\DAS-SistemaBiblioteca\\Controladora\\Controladora.csproj": {
+              "projectPath": "C:\\Users\\nnnan\\source\\Noya2.0\\DAS-SistemaBiblioteca\\Controladora\\Controladora.csproj"
             },
-            "C:\\Users\\Navegador\\Source\\Repos\\Noya2.0\\DAS-SistemaBiblioteca\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\Navegador\\Source\\Repos\\Noya2.0\\DAS-SistemaBiblioteca\\Entidades\\Entidades.csproj"
+            "C:\\Users\\nnnan\\source\\Noya2.0\\DAS-SistemaBiblioteca\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\nnnan\\source\\Noya2.0\\DAS-SistemaBiblioteca\\Entidades\\Entidades.csproj"
             },
-            "C:\\Users\\Navegador\\Source\\Repos\\Noya2.0\\DAS-SistemaBiblioteca\\Modelo\\Modelo.csproj": {
-              "projectPath": "C:\\Users\\Navegador\\Source\\Repos\\Noya2.0\\DAS-SistemaBiblioteca\\Modelo\\Modelo.csproj"
+            "C:\\Users\\nnnan\\source\\Noya2.0\\DAS-SistemaBiblioteca\\Modelo\\Modelo.csproj": {
+              "projectPath": "C:\\Users\\nnnan\\source\\Noya2.0\\DAS-SistemaBiblioteca\\Modelo\\Modelo.csproj"
             }
           }
         }
@@ -4841,7 +4840,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -4887,7 +4886,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
